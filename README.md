@@ -3,5 +3,5 @@
 you might know me from:
 - hack club
 - sol's rng macro dev
-- sol's rng content creation
+- my youtube channel
 or more!
